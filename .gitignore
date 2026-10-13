@@ -218,3 +218,12 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+data/
+aug_data/
+logs/
+*.keras
+*.h5
+*.bundle
+.virtual_documents/
